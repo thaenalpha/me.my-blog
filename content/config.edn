@@ -1,7 +1,7 @@
 {:site-title                   "ThaenAlpha Blog"
  :author                       "Nopanun Laochunhanun"
  :description                  "This blog is awesome"
- :site-url                     "http://thaenalpha.com/"
+ :site-url                     "http://thaenalpha.github.io/"
  :post-root                    "posts"
  :page-root                    "pages"
  :post-root-uri                "posts-output"
@@ -17,7 +17,7 @@
  :archive-group-format         "yyyy MMMM"
  :sass-src                     []
  :sass-path                    "sass"
- :theme                        "blue"
+ :theme                        "nucleus"
  :resources                    ["img"]
  :keep-files                   [".git"]
  :disqus?                      false
